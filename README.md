@@ -1,1 +1,1 @@
-A repo containing various questions related to Threat Detection Engineering. Might be useful someday... 🧋
+A repo containing various questions related to Threat Detection Engineering. Might be useful someday... ¯\\_(ツ)_/¯
